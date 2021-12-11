@@ -6,7 +6,8 @@
   "homepage": "https://webdevbiv.github.io/goit-js-hw-11-practice/",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /goit-js-hw-11-practice/"
+    "build": "parcel build src/*.html --public-url /goit-js-hw-11-practice/",
+    "server": "json-server --watch db.json"
   },
   "repository": {
     "type": "git",

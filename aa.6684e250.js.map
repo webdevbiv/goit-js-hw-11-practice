@@ -1,1 +1,0 @@
-{"version":3,"sources":["js/aa.js"],"names":["console","log","error"],"mappings":";AAAA,IACIA,QAAQC,IAAI,KACd,MAAOC,GACLF,QAAQC,IAAI,UAEhBD,QAAQC,IAAI","file":"aa.6684e250.js","sourceRoot":"../src","sourcesContent":["try {\n    console.log('1');\n} catch (error) {\n    console.log('error!');\n}\nconsole.log('after try catch');"]}

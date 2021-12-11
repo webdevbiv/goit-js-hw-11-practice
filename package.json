@@ -7,7 +7,7 @@
   "scripts": {
     "dev": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /goit-js-hw-11-practice/",
-    "server": "json-server --watch db.json"
+    "server": "json-server --watch db.json -p 4040 -d 1000"
   },
   "repository": {
     "type": "git",

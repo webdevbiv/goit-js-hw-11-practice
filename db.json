@@ -1,7 +1,7 @@
 {
     "books": [
         {
-            "id": "Book1",
+            "id": "1",
             "title": "Book1 Title",
             "author": "Book1 Author",
             "geners": [
@@ -10,7 +10,7 @@
             "rating": 8.3
         },
         {
-            "id": "Book2",
+            "id": "2",
             "title": "Book2 Title",
             "author": "Book2 Author",
             "geners": [
@@ -19,7 +19,7 @@
             "rating": 9
         },
         {
-            "id": "Book3",
+            "id": "3",
             "title": "Book3 Title",
             "author": "Book3 Author",
             "geners": [
@@ -29,7 +29,7 @@
             "rating": 10
         },
         {
-            "id": "Book4",
+            "id": "4",
             "title": "Book4 Title",
             "author": "Book4 Author",
             "geners": [
@@ -39,7 +39,7 @@
             "rating": 7
         },
         {
-            "id": "Book5",
+            "id": "5",
             "title": "Book5 Title",
             "author": "Book5 Author",
             "geners": [

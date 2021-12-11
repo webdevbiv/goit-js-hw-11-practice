@@ -3,20 +3,20 @@
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://webdevbiv.github.io/goit-js-hw-11/",
+  "homepage": "https://webdevbiv.github.io/goit-js-hw-11-practice/",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /goit-js-hw-11/"
+    "build": "parcel build src/*.html --public-url /goit-js-hw-11-practice/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/webdevbiv/goit-js-hw-11.git"
+    "url": "git+https://github.com/webdevbiv/goit-js-hw-11-practice.git"
   },
   "keywords": [],
   "author": "Igor webdevbiv <webdevbiv@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/webdevbiv/goit-js-hw-11/issues"
+    "url": "https://github.com/webdevbiv/goit-js-hw-11-practice/issues"
   },
   "devDependencies": {
     "parcel-bundler": "^1.12.5",
@@ -27,6 +27,7 @@
   },
   "dependencies": {
     "handlebars": "^4.7.7",
+    "json-server": "^0.17.0",
     "lodash.debounce": "^4.0.8",
     "notiflix": "^3.2.2"
   }
